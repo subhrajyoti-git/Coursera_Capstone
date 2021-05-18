@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project repository
+Capstone project repository.
